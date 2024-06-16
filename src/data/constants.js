@@ -233,7 +233,7 @@ export const projects = [
     description:
       "Basic Portfolio Page made with HTML, CSS. It has a responsive design and is mobile-friendly.",
     image:
-      "",
+      "https://tse3.mm.bing.net/th?id=OIP.QxMa0uCvVVNI_eY6SC0AqgHaFk&pid=Api&P=0&h=180",
     tags: [
       "HTML",
       "CSS",
@@ -249,7 +249,7 @@ export const projects = [
     description:
       " A simple music player made with HTML, CSS, and JavaScript. It has a play, pause, and stop button. It also has a volume control slider. It has a responsive design and is mobile-friendly.",
     image:
-      "",
+      'https://static.vecteezy.com/system/resources/previews/013/474/557/original/media-music-player-interface-isolated-on-white-background-multimedia-frame-template-mockup-live-stream-window-player-online-broadcasting-multimedia-navigation-and-music-application-vector.jpg',
     tags: ["HTML", "CSS", "JavaScript"],
     category: "web app",
     github: "https://github.com/Rushhaabhhh/Music-Player",
@@ -262,7 +262,7 @@ export const projects = [
     description:
       " A simple cart service made with Java, Spring Boot, and MySQL. It has a REST API to add, update, delete, and get cart items.",
     image:
-      "",
+      "https://tse2.mm.bing.net/th?id=OIP.qdcXAKZNR4kgQ2YVRPEXlwHaFj&pid=Api&P=0&h=180",
     tags: [
       "Java",
       "Spring Boot",
@@ -279,7 +279,7 @@ export const projects = [
     description:
       " A simple Tic-Tac-Toe game made with Java and Spring Boot. It has a REST API to play the game.",
     image:
-      "",
+      "https://papergames.io/en/assets/games/tictactoe/thumbnail.png",
     tags: ["Java", "Spring Boot"],
     category: "springboot",
     github: "https://github.com/Rushhaabhhh/Tic-Tac-Toe",
@@ -291,7 +291,7 @@ export const projects = [
     description:
       " A simple product service made with Java, Spring Boot, and MySQL. It has a REST API to add, update, delete, and get products.",
     image:
-      "",
+      "https://tse4.mm.bing.net/th?id=OIP.dWXNLlmMGFvIsARREkdjNAHaFR&pid=Api&P=0&h=180",
     tags: [
       "Java",
       "Spring Boot",
@@ -307,7 +307,7 @@ export const projects = [
     date: "MArch 2024",
     description:
       " A Multi Stepper Form made with React JS, HTML, CSS, and JavaScript. It has a responsive design and is mobile-friendly. It has a stepper where users can fill in their details. It has a summary page where users can see all the details they have filled in. It has a confirmation page where users can confirm their details. It has a success page where users can see a success message.",
-    image: "",
+    image: "https://tse4.mm.bing.net/th?id=OIP.aZMuvp9a7L7WwZdlVFWRCgHaFj&pid=Api&P=0&h=180",
     tags: ["HTML", "Tailwind CSS", "JavaScript", "React"],
     category: "web app",
     github: "https://github.com/Rushhaabhhh/Multi-Stepper-Form",
@@ -320,7 +320,7 @@ export const projects = [
     description:
       "This document outlines the technical approach, algorithm, and implementation plan for the development of WallCraft, an app designed to detect walls in a room and apply selected wall panel designs using the Meta Quest SDK. The goal is to offer users a seamless experience in customizing their wall panels while ensuring they do not obstruct any objects in the room.",
     image:
-      "",
+      "https://tse2.mm.bing.net/th?id=OIP.j9ELi8IYsqybdv0L2beJqAAAAA&pid=Api&P=0&h=180",
     tags: ["Unity", "C#", "Oculus SDK", "OpenXR", "TensorFlow"],
     category: "web app",
     github: "https://github.com/Rushhaabhhh/WallCraft",
